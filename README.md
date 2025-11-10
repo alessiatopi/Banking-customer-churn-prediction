@@ -4,4 +4,4 @@ THE DATASET: Contains 10,000 customer records from banks in France, Germany, and
 
 THE AIM: predict whether bank customers will switch institutions using supervised machine learning algorithms. Several models were implemented and compared based on their prediction accuracy.
 
-METHODOLOGIES USED: Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, Neural Network
+METHODOLOGIES USED: Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, Neural Network.
